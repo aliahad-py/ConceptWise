@@ -42,3 +42,16 @@ Concept Wise is an AI-powered educational tool designed to help students visuali
    ```bash
    git clone https://github.com/your-username/concept-wise.git
    cd concept-wise
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. **Set up environment variables**
+   Create a .env.local file and add your Firebase + OpenAI keys:
+   ```ini
+   NEXT_PUBLIC_FIREBASE_API_KEY=your_key_here
+   NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
+   NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
+   OPENAI_API_KEY=your_openai_key
+   ```
