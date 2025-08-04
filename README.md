@@ -57,9 +57,8 @@ Concept Wise is an AI-powered educational tool designed to help students visuali
    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
    NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
    NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
-   NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your_measurement_id
    # Gemini API Key (Google AI Studio or Google Cloud)
-   GEMINI_API_KEY=your_gemini_api_key
+   NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
    ```
 4. **Run the Development Server**
    ```bash
