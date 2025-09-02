@@ -7,21 +7,21 @@ The app is deployed with **Vercel** and can be accessed here:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🧠 **AI-Powered Diagram Notes**  
+- **AI-Powered Diagram Notes**  
   Convert textbooks, paragraphs, or chapters into interactive concept maps using LLMs.
 
-- 🔗 **Interlinked Concept Nodes**  
+- **Interlinked Concept Nodes**  
   Each node in the diagram is expandable and connected, helping you see how ideas relate.
 
-- 🎨 **Custom Themes & Diagram Styles**  
+- **Custom Themes & Diagram Styles**  
   Switch between diagram layouts and personalize the style for your preferred learning flow.
 
-- 🏫 **Student-Centric Design**  
+- **Student-Centric Design**  
   Specifically built for school and college learners to simplify tough subjects.
 
-- 📄 **Smart Summaries & Contextual Notes**  
+- **Smart Summaries & Contextual Notes**  
   AI extracts meaningful summaries from provided input, linking them to visual nodes.
 
 ---
@@ -48,10 +48,10 @@ The app is deployed with **Vercel** and can be accessed here:
 📌 Coming Soon
 --------------
 
-* 📚 Subject-specific templates (Physics, Biology, etc.)  
-* 👥 Collaborative concept mapping  
-* 📱 Mobile-optimized UI  
-* 🔄 Save and share diagrams with peers or teachers  
+* Subject-specific templates (Physics, Biology, etc.)  
+* Collaborative concept mapping  
+* Mobile-optimized UI  
+* Save and share diagrams with peers or teachers  
 
 ---
 
