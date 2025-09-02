@@ -2,6 +2,7 @@
 
 Concept Wise is an AI-powered educational tool designed to help students visualize and understand complex academic concepts through interactive diagrams and smart note generation. Built with Next.js and Firebase, it uses Large Language Models (LLMs) to transform learning material into structured, expandable diagrams.
 
+The app is deployed with **Vercel** and can be accessed here:  
 🚀 **Live App:** [https://concept-wise.vercel.app/](https://concept-wise.vercel.app/)
 
 ---
@@ -42,6 +43,15 @@ Concept Wise is an AI-powered educational tool designed to help students visuali
 - **Firebase (Auth, Firestore, Hosting)**
 - **Gemini API / LLMs**
 - **shadcn/ui for components**
+---
+
+📌 Coming Soon
+--------------
+
+* 📚 Subject-specific templates (Physics, Biology, etc.)  
+* 👥 Collaborative concept mapping  
+* 📱 Mobile-optimized UI  
+* 🔄 Save and share diagrams with peers or teachers  
 
 ---
 
@@ -79,25 +89,6 @@ Open your browser and visit:
 
 ---
 
-
-
-📦 Deployment
--------------
-
-The app is deployed with **Vercel** and can be accessed here:  
-🔗 [https://concept-wise.vercel.app/](https://concept-wise.vercel.app/)
-
----
-
-📌 Coming Soon
---------------
-
-* 📚 Subject-specific templates (Physics, Biology, etc.)  
-* 👥 Collaborative concept mapping  
-* 📱 Mobile-optimized UI  
-* 🔄 Save and share diagrams with peers or teachers  
-
----
 
 📄 License
 ----------
