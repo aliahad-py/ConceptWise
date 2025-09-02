@@ -25,13 +25,22 @@ Concept Wise is an AI-powered educational tool designed to help students visuali
 
 ---
 
+🧑‍🎓 Who This Is For
+---------------------
+
+* Students looking to break down tough subjects like chemistry, physics, or history  
+* Visual learners who understand better with diagrams  
+* Anyone who wants to generate structured study notes quickly with AI  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Next.js 14 (App Router)**
 - **TypeScript**
 - **Tailwind CSS**
 - **Firebase (Auth, Firestore, Hosting)**
-- **OpenAI API / LLMs**
+- **Gemini API / LLMs**
 - **shadcn/ui for components**
 
 ---
@@ -70,26 +79,7 @@ Open your browser and visit:
 
 ---
 
-🧑‍🎓 Who This Is For
----------------------
 
-* Students looking to break down tough subjects like chemistry, physics, or history  
-* Visual learners who understand better with diagrams  
-* Anyone who wants to generate structured study notes quickly with AI  
-
----
-
-🧪 Tech Stack
--------------
-
-* **Next.js 14** (App Router)  
-* **TypeScript**  
-* **Tailwind CSS**  
-* **Firebase (Auth, Firestore)**  
-* **OpenAI / GPT**  
-* **shadcn/ui** components  
-
----
 
 📦 Deployment
 -------------
